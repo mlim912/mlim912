@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Molika.
 - 👀 I’m interested in software development and cyber security.
-- 🌱 I’m currently learning agile software development. 
+- 🌱 I’m currently studying Computer Science at the University of Auckland. 
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: mlim912@aucklanduni.ac.nz.
 
